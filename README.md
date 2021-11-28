@@ -3,7 +3,7 @@
 <a href='https://twitter.com/012Priyang'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/PRIYANG012/PRIYANG012/main/twitter.svg" height='18px'/></a>
 
 <br>
-<img align="right" alt="profile" src="https://priyang-patel.web.app/assets/Images/Priyang@4x.png" width="260px"/>
+<img align="right" alt="profile" src="https://priyang-patel.web.app/assets/Images/Priyang@4x.png" width="200px"/>
 
 <!-- - 🔭 I’m currently working on  -->
 - 🌱 I’m currently learning Typescript and Node.js
