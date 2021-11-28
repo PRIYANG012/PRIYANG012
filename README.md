@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Priyang Patel!
 <a href='https://www.linkedin.com/in/priyang-patel-81658b199/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/PRIYANG012/PRIYANG012/main/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/012Priyang'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/PRIYANG012/PRIYANG012/main/twitter.svg" height='18px'/></a>
-<a href='https://in.pinterest.com/priyangspatel12345/_created/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/PRIYANG012/PRIYANG012/main/icons8-pinterest (1).svg" height='18px'/></a>
+<a href='https://in.pinterest.com/priyangspatel12345/_created/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/PRIYANG012/PRIYANG012/main/icons8-pinterest (1).svg" height='22px'/></a>
 
 <br>
 <img align="right" alt="profile" src="https://priyang-patel.web.app/assets/Images/Priyang@4x.png" width="200px"/>
