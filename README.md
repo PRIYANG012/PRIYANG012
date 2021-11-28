@@ -1,9 +1,9 @@
 ## Hey 👋, I'm Priyang Patel!
 <a href='https://www.linkedin.com/in/priyang-patel-81658b199/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/PRIYANG012/PRIYANG012/main/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/012Priyang'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/PRIYANG012/PRIYANG012/main/twitter.svg" height='18px'/></a>
+<a href='https://twitter.com/012Priyang'><img align='left' alt="twitter" src="https://priyang-patel.web.app/assets/Images/Priyang@4x.png" height='18px'/></a>
 
 <br>
-
+<img align="right" alt="profile" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 <!-- - 🔭 I’m currently working on  -->
 - 🌱 I’m currently learning Typescript and Node.js
