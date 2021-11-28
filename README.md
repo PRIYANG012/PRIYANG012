@@ -30,10 +30,10 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/PRIYANG012/PRIYANG012">
-  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYANG012&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYANG012&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/PRIYANG012/PRIYANG012">
-  <img align="center"  width="500" src="https://github-readme-stats.vercel.app/api?username=PRIYANG012&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Priyang's GitHub Stats" />
+  <img align="center"  width="650" src="https://github-readme-stats.vercel.app/api?username=PRIYANG012&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Priyang's GitHub Stats" />
 
 [![Priyang's github activity graph](https://activity-graph.herokuapp.com/graph?username=PRIYANG012&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/PRIYANG012)
 
