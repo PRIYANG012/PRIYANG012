@@ -22,6 +22,6 @@
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/PRIYANG012/PRIYANG012/main/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/PRIYANG012/PRIYANG012/main/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/PRIYANG012/PRIYANG012/main/icons8-django.svg" alt="django" height='42px'/> </a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://raw.githubusercontent.com/PRIYANG012/PRIYANG012/main/icons8-flask.svg" alt="flask" height='42px'/> </a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/PRIYANG012/PRIYANG012/main/icons8-flask.svg" alt="flask" height='42px'/> </a>
 <br>
 
