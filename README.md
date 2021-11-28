@@ -22,7 +22,7 @@
 
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/PRIYANG012/PRIYANG012/main/typescript.svg"></a>
 
-<a href="https://angular.io/" target="_blank"> <img align="left" alt="angular" height ="42px" src="https://raw.githubusercontent.com/PRIYANG012/PRIYANG012/main/Angular_full_color_logo.svg"></a>
+<a href="https://angular.io/" target="_blank"> <img align="left" alt="angular" height ="42px" src="https://raw.githubusercontent.com/PRIYANG012/PRIYANG012/main/icons8-angularjs.svg"></a>
 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/PRIYANG012/PRIYANG012/main/node.svg"></a>
 
